@@ -1,1 +1,1 @@
-# fuzzy-adventure
+# Machine Learning Projects
